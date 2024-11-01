@@ -310,7 +310,7 @@ class _EditScreenState extends State<EditScreen> {
                                         ?.translate("Mobile Number") ??
                                     "Mobile Number",
                                 widget: IntlPhoneField(
-                                  initialCountryCode: "IN",
+                                  initialCountryCode: 'VN',
                                   keyboardType: TextInputType.number,
                                   cursorColor: Colors.black,
                                   showCountryFlag: false,

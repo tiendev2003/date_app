@@ -265,6 +265,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                                                 onBordingProvider
                                                                     .ccode)
                                                         .then((value) {
+                                                          print(value);
                                                       if (value == "false") {
                                                         BlocProvider.of<
                                                                     OnbordingCubit>(
