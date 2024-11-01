@@ -234,7 +234,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                             onTap: () {
                               homeProvider.setSelectPage(4);
                               Navigator.pushNamed(
-                                  context, "/editProfileScreen");
+                                  context, "/editPage");
                             },
                           ),
                           const SizedBox(

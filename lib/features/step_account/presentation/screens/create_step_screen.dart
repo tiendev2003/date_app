@@ -974,7 +974,7 @@ class _CreateStepScreenState extends State<CreateStepScreen> {
                                   width: 5,
                                 ),
                                 Image.network(
-                                  "${Config.baseUrl}${data.img}",
+                                  "${Config.baseUrl}/${data.img}",
                                   height: 24,
                                   width: 24,
                                 )
@@ -1053,7 +1053,7 @@ class _CreateStepScreenState extends State<CreateStepScreen> {
                                       width: 5,
                                     ),
                                     Image.network(
-                                      "${Config.baseUrl}${data.img}",
+                                      "${Config.baseUrl}/${data.img}",
                                       height: 24,
                                       width: 24,
                                     )
@@ -1166,7 +1166,7 @@ class _CreateStepScreenState extends State<CreateStepScreen> {
                           child: Row(
                             children: [
                               Image.network(
-                                "${Config.baseUrl}${data.img}",
+                                "${Config.baseUrl}/${data.img}",
                                 height: 50,
                                 width: 50,
                               ),
