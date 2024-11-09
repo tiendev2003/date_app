@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "573607173470",
+    "firebase_url": "https://fir-3cb50-default-rtdb.firebaseio.com",
+    "project_id": "fir-3cb50",
+    "storage_bucket": "fir-3cb50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573607173470:android:5dd195bcc71c0720ed03cf",
+        "android_client_info": {
+          "package_name": "com.dating.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573607173470-hmk2scokm3loenarkp3us31728i8ku69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dating.app",
+            "certificate_hash": "c2113e7fea02ddb340299cf245635657b89a0c8d"
+          }
+        },
+        {
+          "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRoAXZajzby309eAQywz0JXDgvFvpSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573607173470-9d0dq29n07hpv2j8hnb7kgctpf804vip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxi.drivers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573607173470:android:3a744b6d2e37005ced03cf",
+        "android_client_info": {
+          "package_name": "com.example.chat_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRoAXZajzby309eAQywz0JXDgvFvpSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573607173470-9d0dq29n07hpv2j8hnb7kgctpf804vip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxi.drivers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573607173470:android:33549a4135b9f3abed03cf",
+        "android_client_info": {
+          "package_name": "com.example.date_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRoAXZajzby309eAQywz0JXDgvFvpSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573607173470-9d0dq29n07hpv2j8hnb7kgctpf804vip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxi.drivers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573607173470:android:516300c08634d096ed03cf",
+        "android_client_info": {
+          "package_name": "com.example.date_team_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRoAXZajzby309eAQywz0JXDgvFvpSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573607173470-9d0dq29n07hpv2j8hnb7kgctpf804vip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxi.drivers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573607173470:android:4bd9ad1dd89404b0ed03cf",
+        "android_client_info": {
+          "package_name": "com.mytaxi.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRoAXZajzby309eAQywz0JXDgvFvpSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573607173470-9d0dq29n07hpv2j8hnb7kgctpf804vip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxi.drivers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573607173470:android:6df2b3077326c6bfed03cf",
+        "android_client_info": {
+          "package_name": "com.mytaxi.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRoAXZajzby309eAQywz0JXDgvFvpSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573607173470-9d0dq29n07hpv2j8hnb7kgctpf804vip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxi.drivers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573607173470:android:1f9f8158be09db97ed03cf",
+        "android_client_info": {
+          "package_name": "com.mytaxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRoAXZajzby309eAQywz0JXDgvFvpSZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573607173470-lo5s3ovvqlad8m1afu3kamjtimnkk3gh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573607173470-9d0dq29n07hpv2j8hnb7kgctpf804vip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mytaxi.drivers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
